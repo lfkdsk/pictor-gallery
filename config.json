@@ -1,7 +1,9 @@
 {
-  "title": "照片集",
-  "subtitle": "Take Photo Think Seriously",
-  "description": "拿起相机，认真思考",
-  "cover": "https://github.com/lfkdsk/picx-images-hosting/raw/master/20230817/IMG_7586.4e91my1ve140.17iz0sa56gik.webp",
-  "author": "lfkdsk"
-}
+    "title": "Pictor 照片集",
+    "subtitle": "Take Photo Think Seriously",
+    "description": "拿起相机，认真思考",
+    "cover": "https://github.com/lfkdsk/picx-images-hosting/raw/master/20230817/IMG_7586.4e91my1ve140.17iz0sa56gik.webp",
+    "author": "Pictor",
+    "slogan_descr": "The moments when I pressed the shutter, the moments are forever.",
+    "travel_slogan_descr": "Travel all over the world ~"
+  }
