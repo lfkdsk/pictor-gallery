@@ -6,5 +6,7 @@
   "author": "Pictor",
   "slogan_descr": "The moments when I pressed the shutter, the moments are forever.",
   "travel_slogan_descr": "Travel all over the world ~",
-  "cdn": "https://cdn.jsdelivr.net/gh/lfkdsk/pictor-gallery@main"
+  "cdn": "https://cdn.jsdelivr.net/gh/lfkdsk/pictor-gallery@main",
+  "main": "https://github.com/lfkdsk/pictor-gallery/raw/main",
+  "thumbnail": "https://github.com/lfkdsk/pictor-gallery/raw/thumbnail"
 }
