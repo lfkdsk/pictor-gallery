@@ -1,4 +1,10 @@
 {
+  "lfkdsk": {
+    "dir": "lfkdsk",
+    "cover": "lfkdsk/lfkdsk.jpeg",
+    "location": [],
+    "date": "2025-01-31"
+  },
   "世界尽头与冷酷仙境": {
     "dir": "Alaska",
     "date": "2024-07-02",
@@ -7,11 +13,5 @@
       60.1002017824315,
       -149.4508873967907
     ]
-  },
-  "lfkdsk": {
-    "dir": "lfkdsk",
-    "cover": "lfkdsk/lfkdsk.jpeg",
-    "location": [],
-    "date": "2025-01-31"
   }
 }
